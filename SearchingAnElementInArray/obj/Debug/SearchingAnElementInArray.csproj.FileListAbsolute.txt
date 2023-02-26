@@ -1,0 +1,8 @@
+D:\aaa\testt\SortingArrays\SearchingAnElementInArray\bin\Debug\SearchingAnElementInArray.exe.config
+D:\aaa\testt\SortingArrays\SearchingAnElementInArray\bin\Debug\SearchingAnElementInArray.exe
+D:\aaa\testt\SortingArrays\SearchingAnElementInArray\bin\Debug\SearchingAnElementInArray.pdb
+D:\aaa\testt\SortingArrays\SearchingAnElementInArray\obj\Debug\SearchingAnElementInArray.csproj.AssemblyReference.cache
+D:\aaa\testt\SortingArrays\SearchingAnElementInArray\obj\Debug\SearchingAnElementInArray.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\SortingArrays\SearchingAnElementInArray\obj\Debug\SearchingAnElementInArray.csproj.CoreCompileInputs.cache
+D:\aaa\testt\SortingArrays\SearchingAnElementInArray\obj\Debug\SearchingAnElementInArray.exe
+D:\aaa\testt\SortingArrays\SearchingAnElementInArray\obj\Debug\SearchingAnElementInArray.pdb

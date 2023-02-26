@@ -1,0 +1,8 @@
+D:\aaa\testt\SortingArrays\MergingArrays\bin\Debug\MergingArrays.exe.config
+D:\aaa\testt\SortingArrays\MergingArrays\bin\Debug\MergingArrays.exe
+D:\aaa\testt\SortingArrays\MergingArrays\bin\Debug\MergingArrays.pdb
+D:\aaa\testt\SortingArrays\MergingArrays\obj\Debug\MergingArrays.csproj.AssemblyReference.cache
+D:\aaa\testt\SortingArrays\MergingArrays\obj\Debug\MergingArrays.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\SortingArrays\MergingArrays\obj\Debug\MergingArrays.csproj.CoreCompileInputs.cache
+D:\aaa\testt\SortingArrays\MergingArrays\obj\Debug\MergingArrays.exe
+D:\aaa\testt\SortingArrays\MergingArrays\obj\Debug\MergingArrays.pdb

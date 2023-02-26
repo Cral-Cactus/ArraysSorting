@@ -1,0 +1,16 @@
+D:\aaa\testt\SortingArrays\SortingArrays\bin\Debug\SortingArrays.exe.config
+D:\aaa\testt\SortingArrays\SortingArrays\bin\Debug\SortingArrays.exe
+D:\aaa\testt\SortingArrays\SortingArrays\bin\Debug\SortingArrays.pdb
+D:\aaa\testt\SortingArrays\SortingArrays\obj\Debug\SortingStrings.csproj.AssemblyReference.cache
+D:\aaa\testt\SortingArrays\SortingArrays\obj\Debug\SortingStrings.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\SortingArrays\SortingArrays\obj\Debug\SortingStrings.csproj.CoreCompileInputs.cache
+D:\aaa\testt\SortingArrays\SortingArrays\obj\Debug\SortingArrays.exe
+D:\aaa\testt\SortingArrays\SortingArrays\obj\Debug\SortingArrays.pdb
+D:\aaa\testt\SortingArrays\SortingStrings\bin\Debug\SortingArrays.exe.config
+D:\aaa\testt\SortingArrays\SortingStrings\bin\Debug\SortingArrays.exe
+D:\aaa\testt\SortingArrays\SortingStrings\bin\Debug\SortingArrays.pdb
+D:\aaa\testt\SortingArrays\SortingStrings\obj\Debug\SortingStrings.csproj.AssemblyReference.cache
+D:\aaa\testt\SortingArrays\SortingStrings\obj\Debug\SortingStrings.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\SortingArrays\SortingStrings\obj\Debug\SortingStrings.csproj.CoreCompileInputs.cache
+D:\aaa\testt\SortingArrays\SortingStrings\obj\Debug\SortingArrays.exe
+D:\aaa\testt\SortingArrays\SortingStrings\obj\Debug\SortingArrays.pdb

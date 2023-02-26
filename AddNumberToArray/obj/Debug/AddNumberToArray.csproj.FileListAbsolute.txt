@@ -1,0 +1,8 @@
+D:\aaa\testt\SortingArrays\AddNumberToArray\bin\Debug\AddNumberToArray.exe.config
+D:\aaa\testt\SortingArrays\AddNumberToArray\bin\Debug\AddNumberToArray.exe
+D:\aaa\testt\SortingArrays\AddNumberToArray\bin\Debug\AddNumberToArray.pdb
+D:\aaa\testt\SortingArrays\AddNumberToArray\obj\Debug\AddNumberToArray.csproj.AssemblyReference.cache
+D:\aaa\testt\SortingArrays\AddNumberToArray\obj\Debug\AddNumberToArray.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\SortingArrays\AddNumberToArray\obj\Debug\AddNumberToArray.csproj.CoreCompileInputs.cache
+D:\aaa\testt\SortingArrays\AddNumberToArray\obj\Debug\AddNumberToArray.exe
+D:\aaa\testt\SortingArrays\AddNumberToArray\obj\Debug\AddNumberToArray.pdb
